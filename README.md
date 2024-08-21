@@ -56,6 +56,7 @@ Library name 	    Version
 ## Acknowledgements
 
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
+
 Contributor:
 
-* [Bansidhar Mohapatra](https://github.com/)
+* [Bansidhar Mohapatra](https://github.com/bansidharmohapatra/CaseStudy)
